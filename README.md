@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:06B6D4&height=220&section=header&text=Nityam%20Deorah&fontSize=50&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=Open%20Source%20Contributor%20%7C%20CSE%20Student&descAlignY=58&descSize=18" width="100%" alt="Nityam Deorah banner" />
+<img src="./assets/hero-banner.svg" width="100%" alt="Nityam Deorah — Open-Source Contributor @pytorch" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=620&lines=CSE+Student+%40+VTU;Open+Source+Contributor;PyTorch+%7C+torch.compile;C%2B%2B+%7C+HTML+%7C+CSS+%7C+Git" alt="Typing animation" />
 
